@@ -1,0 +1,138 @@
+dependent_variables:
+- header:
+    name: Model covariance
+  values:
+  - value: 0.08790132493343797
+  - value: -0.11945403751559677
+  - value: 0.0315071437466975
+  - value: -0.030962304377841657
+  - value: -0.006160036741675814
+  - value: -0.11945403751559677
+  - value: 0.7069548995599803
+  - value: 0.15385097468588915
+  - value: -0.18054940577716574
+  - value: -0.014934813567123804
+  - value: 0.0315071437466975
+  - value: 0.15385097468588915
+  - value: 0.21831178018963843
+  - value: -0.05000955334428014
+  - value: -0.024190527882350762
+  - value: -0.030962304377841657
+  - value: -0.18054940577716574
+  - value: -0.05000955334428014
+  - value: 0.5834079985245162
+  - value: -0.055002372129074474
+  - value: -0.006160036741675814
+  - value: -0.014934813567123804
+  - value: -0.024190527882350762
+  - value: -0.055002372129074474
+  - value: 0.01754407993291141
+independent_variables:
+- header:
+    name: $m_\mathrm{jet}$
+    units: GeV
+  values:
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+- header:
+    name: $m_\mathrm{jet}$
+    units: GeV
+  values:
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0

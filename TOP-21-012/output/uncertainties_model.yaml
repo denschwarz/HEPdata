@@ -1,0 +1,79 @@
+dependent_variables:
+- header:
+    name: Choice of $m_\mathrm{t}$
+    units: '%'
+  values:
+  - value: 8.10353946685791
+  - value: 4.992089748382568
+  - value: 1.293258547782898
+  - value: 5.316442012786865
+  - value: 4.031183242797852
+- header:
+    name: $h_\mathrm{damp}$
+    units: '%'
+  values:
+  - value: 21.99761962890625
+  - value: 3.8792216777801514
+  - value: 1.6228270530700684
+  - value: 3.9591543674468994
+  - value: 1.9152637720108032
+- header:
+    name: Colour reconnection
+    units: '%'
+  values:
+  - value: 4.182802200317383
+  - value: 22.400590896606445
+  - value: 0.8234651684761047
+  - value: 3.5002691745758057
+  - value: 0.8061383366584778
+- header:
+    name: UE tune
+    units: '%'
+  values:
+  - value: 7.904426574707031
+  - value: 12.117932319641113
+  - value: 1.9831578731536865
+  - value: 2.49216628074646
+  - value: 5.805723190307617
+- header:
+    name: $\mu_\mathrm{F}$, $\mu_\mathrm{R}$ scales
+    units: '%'
+  values:
+  - value: 5.784061908721924
+  - value: 0.6772885322570801
+  - value: 2.3746302127838135
+  - value: 2.768714189529419
+  - value: 1.3456122875213623
+- header:
+    name: ISR
+    units: '%'
+  values:
+  - value: 7.331470012664795
+  - value: 2.6274096965789795
+  - value: 0.48991432785987854
+  - value: 0.3264574110507965
+  - value: 1.1265112161636353
+- header:
+    name: FSR
+    units: '%'
+  values:
+  - value: 0.7357404232025146
+  - value: 0.2706400156021118
+  - value: 0.19901464879512787
+  - value: 0.5748651623725891
+  - value: 0.4700964689254761
+independent_variables:
+- header:
+    name: $m_\mathrm{jet}$
+    units: GeV
+  values:
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0

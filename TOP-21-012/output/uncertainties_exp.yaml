@@ -1,0 +1,79 @@
+dependent_variables:
+- header:
+    name: Jet energy resolution
+    units: '%'
+  values:
+  - value: 0.9551738500595093
+  - value: 8.956487655639648
+  - value: 5.485897541046143
+  - value: 4.630744457244873
+  - value: 8.92602825164795
+- header:
+    name: Jet mass scale
+    units: '%'
+  values:
+  - value: 5.187833786010742
+  - value: 1.4859166145324707
+  - value: 4.616250038146973
+  - value: 4.638670444488525
+  - value: 1.980709433555603
+- header:
+    name: Jet mass scale b flavour
+    units: '%'
+  values:
+  - value: 3.1637842655181885
+  - value: 0.41775286197662354
+  - value: 3.2517120838165283
+  - value: 3.2108399868011475
+  - value: 1.2627785205841064
+- header:
+    name: Jet energy scale
+    units: '%'
+  values:
+  - value: 13.678483009338379
+  - value: 13.273604393005371
+  - value: 7.0879034996032715
+  - value: 3.864811897277832
+  - value: 5.485567569732666
+- header:
+    name: Pileup
+    units: '%'
+  values:
+  - value: 2.114471912384033
+  - value: 0.102887824177742
+  - value: 1.5088673830032349
+  - value: 0.7169523239135742
+  - value: 0.9707942008972168
+- header:
+    name: MC stat
+    units: '%'
+  values:
+  - value: 6.181756019592285
+  - value: 2.7915849685668945
+  - value: 0.9344757199287415
+  - value: 0.835766613483429
+  - value: 2.0281035900115967
+- header:
+    name: XCone jet correction
+    units: '%'
+  values:
+  - value: 5.359885215759277
+  - value: 5.138384819030762
+  - value: 2.3157527446746826
+  - value: 1.2132154703140259
+  - value: 1.7657825946807861
+independent_variables:
+- header:
+    name: $m_\mathrm{jet}$
+    units: GeV
+  values:
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0

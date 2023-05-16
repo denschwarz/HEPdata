@@ -1,0 +1,60 @@
+dependent_variables:
+- header:
+    name: $\frac{d\sigma}{dm_\mathrm{jet}}$
+    units: $\frac{\mathrm{fb}}{\mathrm{GeV}}$
+  values:
+  - errors:
+    - label: stat
+      symerror: 0.178875261235664
+    - label: exp
+      symerror: 0.19438768697342362
+    - label: model
+      symerror: 0.2964815760438378
+    value: 1.1074261602147335
+  - errors:
+    - label: stat
+      symerror: 0.26319918592688835
+    - label: exp
+      symerror: 0.5536757720211588
+    - label: model
+      symerror: 0.840806101048262
+    value: 3.187125190567197
+  - errors:
+    - label: stat
+      symerror: 0.3485897168957218
+    - label: exp
+      symerror: 1.389633984165862
+    - label: model
+      symerror: 0.46723846180471745
+    value: 12.142654736556047
+  - errors:
+    - label: stat
+      symerror: 0.23545858884063275
+    - label: exp
+      symerror: 0.8148193391276992
+    - label: model
+      symerror: 0.7638114941034314
+    value: 9.117122446702881
+  - errors:
+    - label: stat
+      symerror: 0.08448704833601799
+    - label: exp
+      symerror: 0.20299316644602616
+    - label: model
+      symerror: 0.13245406725696046
+    value: 1.748953483994467
+independent_variables:
+- header:
+    name: $m_\mathrm{jet}$
+    units: GeV
+  values:
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0

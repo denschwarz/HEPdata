@@ -1,0 +1,138 @@
+dependent_variables:
+- header:
+    name: Normalized exp covariance
+  values:
+  - value: 4.737054587065185e-08
+  - value: 3.239580376002475e-08
+  - value: 1.768402824503897e-07
+  - value: -2.0383399650284485e-07
+  - value: -2.6386317789110645e-08
+  - value: 3.239580376002474e-08
+  - value: 3.570800627133877e-07
+  - value: -5.544063585344822e-07
+  - value: 6.0772121638750145e-09
+  - value: 7.94266399485973e-08
+  - value: 1.7684028245038963e-07
+  - value: -5.544063585344823e-07
+  - value: 3.111372547619015e-06
+  - value: -1.8616742749754014e-06
+  - value: -4.3606609827976063e-07
+  - value: -2.038339965028449e-07
+  - value: 6.077212163875001e-09
+  - value: -1.861674274975401e-06
+  - value: 1.5746969191923998e-06
+  - value: 2.423670700609859e-07
+  - value: -2.6386317789110638e-08
+  - value: 7.942663994859731e-08
+  - value: -4.3606609827976063e-07
+  - value: 2.423670700609858e-07
+  - value: 7.032935302964404e-08
+independent_variables:
+- header:
+    name: $m_\mathrm{jet}$
+    units: GeV
+  values:
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+  - high: 232.0
+    low: 192.0
+- header:
+    name: $m_\mathrm{jet}$
+    units: GeV
+  values:
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0
+  - high: 132.0
+    low: 112.0
+  - high: 152.0
+    low: 132.0
+  - high: 172.0
+    low: 152.0
+  - high: 192.0
+    low: 172.0
+  - high: 232.0
+    low: 192.0

@@ -1,0 +1,368 @@
+---
+comment:   A measurement of the jet mass distribution in hadronic decays of Lorentz-boosted
+  top quarks is presented. The measurement is performed in the lepton+jets channel
+  of top quark pair production ($\mathrm{t}\overline{\mathrm{t}}$) events,
+  where the lepton is an electron or muon. The products of the hadronic top quark
+  decay are reconstructed using a single large-radius jet with transverse momentum
+  greater than $400\,\mathrm{GeV}$. The data were collected with the CMS detector
+  at the LHC in proton-proton collisions and correspond to an integrated luminosity
+  of $138\,\mathrm{fb}^{-1}$. The differential $\mathrm{t}\overline{\mathrm{t}}$
+  production cross section as a function of the jet mass is unfolded to the particle
+  level and is used to extract the top quark mass. The jet mass scale is calibrated
+  using the hadronic W boson decay within the large-radius jet. The uncertainties
+  in the modelling of the final state radiation are reduced by studying angular
+  correlations in the jet substructure. These developments lead to a significant
+  increase in precision, and a top quark mass of $173.06 \pm 0.84\,\mathrm{GeV}$.
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+additional_resources:
+- description: Image file
+  location: Unfold_combination_data.png
+- description: Thumbnail image file
+  location: thumb_Unfold_combination_data.png
+data_file: xsec_diff_mjet.yaml
+description: The particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section in the fiducial region as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - differential cross section
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 11a
+name: xsec_diff_mjet
+---
+additional_resources:
+- description: Image file
+  location: Unfold_combination_Correlations_data.png
+- description: Thumbnail image file
+  location: thumb_Unfold_combination_Correlations_data.png
+data_file: correlations_xsec_diff_mjet.yaml
+description: Correlations between bins in the particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - correlations
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 12a
+name: correlations_xsec_diff_mjet
+---
+data_file: covariance_stat_xsec_diff_mjet.yaml
+description: The covariance matrix containing the statistical uncertainties of the particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - covariance stat
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Covariances of statistical uncertainties of Figure 11a
+name: covariance_stat_xsec_diff_mjet
+---
+data_file: covariance_exp_xsec_diff_mjet.yaml
+description: The covariance matrix containing the experimental uncertainties of the particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - covariance exp
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Covariances of experimental uncertainties of Figure 11a
+name: covariance_exp_xsec_diff_mjet
+---
+data_file: covariance_model_xsec_diff_mjet.yaml
+description: The covariance matrix containing the model uncertainties of the particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - covariance model
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Covariances of model uncertainties of Figure 11a
+name: covariance_model_xsec_diff_mjet
+---
+additional_resources:
+- description: Image file
+  location: Unfold_combination_norm_data.png
+- description: Thumbnail image file
+  location: thumb_Unfold_combination_norm_data.png
+data_file: xsec_diff_norm_mjet.yaml
+description: The normalized particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section in the fiducial region as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - normalized differential cross section
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 11b
+name: xsec_diff_norm_mjet
+---
+additional_resources:
+- description: Image file
+  location: Unfold_combination_CorrelationsNorm_data.png
+- description: Thumbnail image file
+  location: thumb_Unfold_combination_CorrelationsNorm_data.png
+data_file: correlations_xsec_diff_norm_mjet.yaml
+description: Correlations between bins in the normalized particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - normalized correlations
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 12b
+name: correlations_xsec_diff_norm_mjet
+---
+data_file: covariance_stat_xsec_diff_norm_mjet.yaml
+description: The covariance matrix containing the statistical uncertainties of the normalized particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - normalized covariance stat
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Covariances of statistical uncertainties of Figure 11b
+name: covariance_stat_xsec_diff_norm_mjet
+---
+data_file: covariance_exp_xsec_diff_norm_mjet.yaml
+description: The covariance matrix containing the experimental uncertainties of the normalized particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - normalized covariance exp
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Covariances of experimental uncertainties of Figure 11b
+name: covariance_exp_xsec_diff_norm_mjet
+---
+data_file: covariance_model_xsec_diff_norm_mjet.yaml
+description: The covariance matrix containing the model uncertainties of the normalized particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - normalized covariance model
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Covariances of model uncertainties of Figure 11b
+name: covariance_model_xsec_diff_norm_mjet
+---
+additional_resources:
+- description: Image file
+  location: SYS_exp.png
+- description: Thumbnail image file
+  location: thumb_SYS_exp.png
+data_file: uncertainties_exp.yaml
+description: Relative experimental uncertainties of the particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section in the fiducial region as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - relative uncertainties exp
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 9a
+name: uncertainties_exp
+---
+additional_resources:
+- description: Image file
+  location: SYS_model.png
+- description: Thumbnail image file
+  location: thumb_SYS_model.png
+data_file: uncertainties_model.yaml
+description: Relative model uncertainties of the particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section in the fiducial region as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - relative uncertainties model
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 9b
+name: uncertainties_model
+---
+additional_resources:
+- description: Image file
+  location: SYS_exp_norm.png
+- description: Thumbnail image file
+  location: thumb_SYS_exp_norm.png
+data_file: uncertainties_norm_exp.yaml
+description: Relative experimental uncertainties of the normalized particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section in the fiducial region as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - relative normalized uncertainties exp
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 10a
+name: uncertainties_norm_exp
+---
+additional_resources:
+- description: Image file
+  location: SYS_model_norm.png
+- description: Thumbnail image file
+  location: thumb_SYS_model_norm.png
+data_file: uncertainties_norm_model.yaml
+description: Relative model uncertainties of the normalized particle-level $\mathrm{t}\overline{\mathrm{t}}$ differential cross section in the fiducial region as a function of the XCone-jet mass.
+keywords:
+- name: reactions
+  values:
+  - P P --> t t
+- name: observables
+  values:
+  - relative normalized uncertainties model
+- name: cmenergies
+  values:
+  - 13000
+- name: phrases
+  values:
+  - Cross Section
+  - Proton-Proton Scattering
+  - Top
+  - Jet Mass
+  - Mass
+location: Contents of Figure 10b
+name: uncertainties_norm_model

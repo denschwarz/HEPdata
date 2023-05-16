@@ -1,0 +1,14 @@
+A measurement of the jet mass distribution in hadronic decays of Lorentz-boosted
+top quarks is presented. The measurement is performed in the lepton+jets channel
+of top quark pair production ($\mathrm{t}\overline{\mathrm{t}}$) events,
+where the lepton is an electron or muon. The products of the hadronic top quark
+decay are reconstructed using a single large-radius jet with transverse momentum
+greater than $400\,\mathrm{GeV}$. The data were collected with the CMS detector
+at the LHC in proton-proton collisions and correspond to an integrated luminosity
+of $138\,\mathrm{fb}^{-1}$. The differential $\mathrm{t}\overline{\mathrm{t}}$
+production cross section as a function of the jet mass is unfolded to the particle
+level and is used to extract the top quark mass. The jet mass scale is calibrated
+using the hadronic W boson decay within the large-radius jet. The uncertainties
+in the modelling of the final state radiation are reduced by studying angular
+correlations in the jet substructure. These developments lead to a significant
+increase in precision, and a top quark mass of $173.06 \pm 0.84\,\mathrm{GeV}$.
